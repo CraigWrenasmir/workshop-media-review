@@ -1,194 +1,215 @@
 {
   "reviewDate": "2026-09-30",
   "requirements": [
-    "Adobe Stock prioritised",
+    "Adobe Stock standard image subscription only; exclude Premium / Enhanced photos",
     "Real photo listings; no generated-image candidates",
     "Australian origin/source metadata required",
     "School uniforms for school scenes",
     "Approximate age spread 7–17 across primary and secondary; teenage-only secondary substitutions"
   ],
+  "catalogueVersion": "standard-20260930-v2",
   "photos": [
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S01",
+      "stockId": "497182914",
+      "title": "Secondary students walking to school together",
+      "originalTitle": "School students group walking together to school",
+      "creator": "Rafael Ben-Ari",
+      "url": "https://stock.adobe.com/images/school-students-group-walking-together-to-school/497182914",
+      "dimensions": "3006 × 2000",
+      "origin": "Source keywords: australia, australian, high school, teenage and uniform. Location is supplier metadata, not independently verified.",
+      "age": "Approx. 13–16 by appearance; source says high school / teenage. Exact ages unverified.",
+      "band": "Secondary",
+      "uniform": "School uniform",
+      "use": "Preferred secondary belonging / identity option; back-view group on a school campus.",
+      "limit": "Faces and detailed peer interaction are not shown. Keep the explanation of belonging / double empathy; models are not identified as Autistic."
+    },
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S02",
+      "stockId": "129868270",
+      "title": "Teenagers learning together in a science classroom",
+      "originalTitle": "High school students using microscopes in laboratory",
+      "creator": "MDBPIXS",
+      "url": "https://stock.adobe.com/images/high-school-students-using-microscopes-in-laboratory/129868270",
+      "dimensions": "6272 × 4708",
+      "origin": "Source keywords: australia, melbourne and teenage. White shirt and tie are visible beneath laboratory coats.",
+      "age": "Approx. 14–17 by appearance; source identifies teenage high-school students. Exact ages unverified.",
+      "band": "Secondary",
+      "uniform": "School clothing / uniform beneath lab coats",
+      "use": "Secondary Learning Design cover or learning-task context; possible peer-learning discussion opener.",
+      "limit": "Science learning is a partial substitute for getting ready to begin a task. This photograph does not show a support worker, adjustment, consultation or task initiation by itself."
+    },
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S03",
+      "stockId": "129872188",
+      "title": "Primary pupils together at the school gate",
+      "originalTitle": "Portrait of elementary students standing by school gate",
+      "creator": "MDBPIXS",
+      "url": "https://stock.adobe.com/images/portrait-of-elementary-students-standing-by-school-gate/129872188",
+      "dimensions": "6272 × 4708",
+      "origin": "Source keywords: australia and melbourne; source title identifies elementary pupils.",
+      "age": "Approx. 7–9 by appearance; source says elementary. Exact ages unverified.",
+      "band": "Primary",
+      "uniform": "School uniform",
+      "use": "Preferred primary belonging / identity option, with two pupils in uniform.",
+      "limit": "Primary-only. The second pupil sits near the left edge, so preserve both pupils when cropping."
+    },
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S04",
+      "stockId": "601398222",
+      "title": "Australian primary pupil in the school playground",
+      "originalTitle": "An Australian primary school girl playing on a playground in the school yard at recess",
+      "creator": "Sarah",
+      "url": "https://stock.adobe.com/images/an-australian-primary-school-girl-playing-on-a-playground-in-the-school-yard-at-recess/601398222",
+      "dimensions": "6094 × 4063",
+      "origin": "Source title explicitly identifies an Australian primary school playground.",
+      "age": "Approx. 7–9 by appearance; source says primary. Exact age unverified.",
+      "band": "Primary",
+      "uniform": "Green school uniform",
+      "use": "Younger primary school-life / identity alternative.",
+      "limit": "Wide environmental view with a relatively small pupil. Check visibility in a small slide crop. Primary-only; do not use as a secondary sensory / interests replacement."
+    },
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S05",
+      "stockId": "430290755",
+      "title": "Upper-primary pupil leaving home for school",
+      "originalTitle": "Young schoolgirl (female age 10-11) going to school from home.",
+      "creator": "Rafael Ben-Ari",
+      "url": "https://stock.adobe.com/images/young-schoolgirl-female-age-10-11-going-to-school-from-home/430290755",
+      "dimensions": "5568 × 3712",
+      "origin": "Source keywords: australia and australian. Origin is supplier metadata, not independently verified.",
+      "age": "10–11 years stated in the supplier’s title.",
+      "band": "Primary",
+      "uniform": "School uniform",
+      "use": "Upper-primary age band for identity or school routine context.",
+      "limit": "Primary-only. Uniform / stature must not be used to relabel this supplier-stated 10–11-year-old as a secondary teenager."
+    },
+    {
+      "license": "Standard collection / Standard licence",
+      "subscriptionEvidence": "Adobe listing offers Standard License with Download with free trial, rather than Premium size pricing. Standard content is included in Adobe standard image subscriptions; use Craig’s signed-in account to confirm the plan allowance before licensing.",
+      "verifiedOn": "2026-09-30",
+      "mediaEvidence": "Adobe Stock Photo / JPEG listing, reviewed visually; searches excluded Generative AI. No generated-image candidate selected.",
+      "id": "S06",
+      "stockId": "452144071",
+      "title": "Australian primary pupil in a broad-brimmed school hat",
+      "originalTitle": "A girl wearing school uniform, white shirt, maroon backpack and a hat Back to school. Return to classrooms after COVID-19 outbreak in Australia",
+      "creator": "Daria Nipot",
+      "url": "https://stock.adobe.com/images/a-girl-wearing-school-uniform-white-shirt-maroon-backpack-and-a-hat-back-to-school-return-to-classrooms-after-covid-19-outbreak-in-australia/452144071",
+      "dimensions": "4000 × 2667",
+      "origin": "Source title identifies Australia; source keywords include australia, australian and uniform.",
+      "age": "Approx. 7–10 by appearance. Exact age unverified.",
+      "band": "Primary",
+      "uniform": "School uniform and broad-brimmed hat",
+      "use": "Close-up primary identity / school-life alternative with copy space.",
+      "limit": "Primary-only. Side/back view does not show a sound-response gesture or establish a sensory profile."
+    }
+  ],
+  "withdrawnPhotos": [
     {
       "id": "P01",
       "stockId": "383622595",
       "title": "Secondary students together in a corridor",
-      "originalTitle": "Group of secondary school students laughing together in corridor",
-      "creator": "Jonah Ritchie/Austockphoto",
       "url": "https://stock.adobe.com/images/group-of-secondary-school-students-laughing-together-in-corridor/383622595",
-      "dimensions": "8688 × 5792",
-      "origin": "Adobe source keywords: Australia and Oceania; Austockphoto contributor",
-      "age": "Approx. 14–17 by appearance; source says secondary/teenage. Exact ages unverified.",
-      "band": "Secondary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 249.99,
-      "largeUsd": 499.99,
-      "use": "Preferred secondary belonging / identity image; also a possible double-empathy discussion opener.",
-      "limit": "A positive peer scene does not demonstrate double empathy or establish that the models are Autistic."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P02",
       "stockId": "423852386",
       "title": "Young Australian public-school pupil",
-      "originalTitle": "Portrait of happy young school boy at Aussie public school in yellow uniform",
-      "creator": "Clare Seibel-Barnes/Austockphoto",
       "url": "https://stock.adobe.com/images/portrait-of-happy-young-school-boy-at-aussie-public-school-in-yellow-uniform/423852386",
-      "dimensions": "5760 × 3840",
-      "origin": "Source title says Aussie public school; source keywords include Australian",
-      "age": "Approx. 7–9 by appearance; source says primary/preteen. Exact age unverified.",
-      "band": "Primary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 249.99,
-      "largeUsd": 499.99,
-      "use": "Younger primary identity / belonging option.",
-      "limit": "Use only in primary variants. Do not repeat the same child throughout the pack."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P03",
       "stockId": "368279019",
       "title": "Upper-primary pupil at school",
-      "originalTitle": "Primary school student at school",
-      "creator": "Jonah Ritchie/Austockphoto",
       "url": "https://stock.adobe.com/images/primary-school-student-at-school/368279019",
-      "dimensions": "5616 × 3744",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Approx. 10–12 by appearance; source says primary. Exact age unverified.",
-      "band": "Primary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Older primary age band for an identity image.",
-      "limit": "Quiet expression is not evidence of anxiety, masking or a sensory profile. Primary-only source classification."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P04",
       "stockId": "368283273",
       "title": "Younger secondary pupil in uniform",
-      "originalTitle": "portrait of a young teen in school uniform, with copyspace",
-      "creator": "Gillian Vann/Austockphoto",
       "url": "https://stock.adobe.com/images/portrait-of-a-young-teen-in-school-uniform-with-copyspace/368283273",
-      "dimensions": "6628 × 4418",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Approx. 12–14 by appearance; source says young teen/high school. Exact age unverified.",
-      "band": "Secondary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Younger secondary identity or Learning Design cover option.",
-      "limit": "A portrait is not a replacement for a sensory-response scene. School emblem may remain visible after cropping."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P05",
       "stockId": "383622366",
       "title": "Older secondary pupils on campus",
-      "originalTitle": "High School students together on-campus",
-      "creator": "Jonah Ritchie/Austockphoto",
       "url": "https://stock.adobe.com/images/high-school-students-together-on-campus/383622366",
-      "dimensions": "8688 × 5792",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Approx. 15–17 by appearance; source says high school. Exact ages unverified.",
-      "band": "Secondary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Older secondary identity / peer-connection option.",
-      "limit": "Same photographic series as P01/P06. Avoid using the same participants on adjacent slides."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P06",
       "stockId": "383622423",
       "title": "Secondary pupil with books on campus",
-      "originalTitle": "Happy High School student on-campus",
-      "creator": "Jonah Ritchie/Austockphoto",
       "url": "https://stock.adobe.com/images/happy-high-school-student-on-campus/383622423",
-      "dimensions": "8688 × 5792",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Older secondary appearance; source says high school. Exact age unverified.",
-      "band": "Secondary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Single-student alternative to P01/P05 for a secondary cover.",
-      "limit": "Conceptual student photo; no claim about diagnosis or internal experience."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P07",
       "stockId": "259244484",
       "title": "Secondary maths task at a desk",
-      "originalTitle": "high school student doing maths homework",
-      "creator": "Gillian Vann/Stocksy",
       "url": "https://stock.adobe.com/images/high-school-student-doing-maths-homework/259244484",
-      "dimensions": "7360 × 4912",
-      "origin": "Source keywords: Australia; Stocksy contributor",
-      "age": "Source says high school; face is outside crop. Exact age unverified.",
-      "band": "Secondary",
-      "uniform": "School uniform visible at home",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Preferred assignment-start / schoolwork example with a uniform, exercise book and calculator.",
-      "limit": "Home desk scene, not a classroom group. Does not show the act of switching tasks."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P08",
       "stockId": "394734920",
       "title": "Primary classmates walking together",
-      "originalTitle": "Three school children walking together with one looking back at the camera",
-      "creator": "Claire Bonnor/Austockphoto",
       "url": "https://stock.adobe.com/images/three-school-children-walking-together-with-one-looking-back-at-the-camera/394734920",
-      "dimensions": "5472 × 3648",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Approx. 7–10 by appearance; source says primary. Exact ages unverified.",
-      "band": "Primary",
-      "uniform": "School uniform",
       "license": "Premium / Enhanced",
-      "smallUsd": 249.99,
-      "largeUsd": 499.99,
-      "use": "Preferred primary belonging alternative to a single-student portrait.",
-      "limit": "Primary-only. Not suitable for the secondary decks."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P09",
       "stockId": "368276422",
       "title": "Australian mother and teenage daughter",
-      "originalTitle": "Mother and teenage daughter hug outside",
-      "creator": "Clare Seibel-Barnes/Austockphoto",
       "url": "https://stock.adobe.com/images/mother-and-teenage-daughter-hug-outside/368276422",
-      "dimensions": "5616 × 3744",
-      "origin": "Source keywords: Australia; Austockphoto contributor",
-      "age": "Source says teenage daughter. Exact age unverified.",
-      "band": "Family alternative",
-      "uniform": "Casual home/outdoor clothing",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Optional family relationship cover if a home scene is acceptable.",
-      "limit": "Does not meet the uniform / school-meeting version of the brief. Keep as an alternative, not the default."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     },
     {
       "id": "P10",
       "stockId": "1098985364",
       "title": "Australian family with a teenage daughter",
-      "originalTitle": "Portrait of Happy First Nations Australian woman and teenaged daughter sitting together on sand dune",
-      "creator": "Austockphoto",
       "url": "https://stock.adobe.com/images/portrait-of-happy-first-nations-australian-woman-and-teenaged-daughter-sitting-together-on-sand-dune/1098985364",
-      "dimensions": "5760 × 3840",
-      "origin": "Source title identifies Australian / First Nations participants; source keywords Australia",
-      "age": "Source says teenaged daughter. Exact age unverified.",
-      "band": "Family alternative",
-      "uniform": "Casual home/outdoor clothing",
       "license": "Premium / Enhanced",
-      "smallUsd": 119.99,
-      "largeUsd": 249.99,
-      "use": "Optional family cover; source identifies the participants as First Nations.",
-      "limit": "Does not show a school consultation and is not in uniform. A family photo does not establish an Autistic identity."
+      "reason": "Premium / Enhanced listing; excluded from Craig’s standard image subscription shortlist."
     }
   ],
+  "licensingGuidance": {
+    "url": "https://helpx.adobe.com/stock/web/common-questions/plans.html",
+    "summary": "Standard assets are available through subscription plans. Premium collection images require a separate purchase or credit pack. Extended licensing is a separate optional licence choice, not needed merely to use a standard subscription image."
+  },
   "videos": [
     {
       "id": "V01",
@@ -262,35 +283,7 @@
       "limit": "Current official page, download link and cover preview verified. Choose the resource that matches the facilitator's intended activity, then replace both its cover and its link."
     }
   ],
-  "ageLeads": [
-    {
-      "title": "Australian schoolchildren in uniform ready to leave for school",
-      "url": "https://www.austockphoto.com.au/image/australian-schoolchildren-in-uniform-ready-to-leav-akZPV",
-      "provider": "Austockphoto",
-      "id": "Austock000298206",
-      "origin": "Hunter Valley, NSW, Australia",
-      "age": "Supplier keywords: 7, 9 and 11 years",
-      "note": "Fallback supplier lead with explicit location and age keywords. Source page checked; image not visually shortlisted. Small price listed AUD30, additional licence options apply."
-    },
-    {
-      "title": "Teenage girl in school uniform",
-      "url": "https://www.austockphoto.com.au/image/teenage-girl-in-school-uniform-fWeSQ",
-      "provider": "Austockphoto",
-      "id": "Austock000208673",
-      "origin": "Brisbane",
-      "age": "Supplier keywords: 14 years / Grade 9",
-      "note": "Fallback lead when exact supplier age information is required. Source page checked; image not visually shortlisted. Small price listed AUD40, additional licence options apply."
-    },
-    {
-      "title": "Teenage girl in school uniform standing on the roadside",
-      "url": "https://www.austockphoto.com.au/image/young-teenage-girl-in-school-uniform-standing-on-t-eq4Yy",
-      "provider": "Austockphoto",
-      "id": "Austock000291914",
-      "origin": "Bowral, NSW, Australia",
-      "age": "Supplier keywords: 16 years",
-      "note": "Fallback lead with explicit Australian location and age keyword. Source page checked; image not visually shortlisted. Small price listed AUD30, additional licence options apply."
-    }
-  ],
+  "ageLeads": [],
   "samples": [
     {
       "id": "E01",
@@ -681,16 +674,16 @@
       "brief": "IMG-07",
       "title": "Positive Autistic Identity",
       "kind": "Missing media",
-      "status": "Photo candidates found",
+      "status": "Standard photo candidates found",
       "candidates": [
-        "P08",
-        "P02",
-        "P03",
-        "P01",
-        "P04",
-        "P05"
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S01",
+        "S02"
       ],
-      "recommendation": "Replace the shared puzzle-piece identity image. Prefer P08 for primary belonging, P01 for secondary belonging. P02/P03 cover younger and older primary ages; P04/P05 cover younger and older secondary ages. Do not imply that stock models are Autistic.",
+      "recommendation": "Replace the shared puzzle-piece identity image. Prefer S03 for primary belonging and S01 for secondary belonging. S04/S06 cover younger primary, S05 has supplier-stated age 10–11, and S02 provides a secondary classroom alternative. Use S01/S02 only for secondary substitutions. Do not imply that stock models are Autistic.",
       "occurrences": [
         {
           "id": "M025",
@@ -1347,12 +1340,12 @@
       "brief": "SEC-04",
       "title": "Executive functioning example",
       "kind": "Secondary review",
-      "status": "Photo and task example found",
+      "status": "Standard learning photo and task example; partial scene match",
       "candidates": [
-        "P07",
+        "S02",
         "E03"
       ],
-      "recommendation": "P07 supplies a uniformed high-school task scene to replace the young getting-ready cartoon A058. Pair it with the literal task-start example; the photograph alone does not demonstrate task initiation or switching.",
+      "recommendation": "S02 supplies a teenage science-learning context to replace the young getting-ready cartoon A058. Pair it with the literal task-start example E03. It is a partial photographic substitute, not an exact getting-ready or task-initiation scene.",
       "occurrences": [
         {
           "id": "S007",
@@ -1514,12 +1507,12 @@
       "brief": "SEC-07",
       "title": "Double Empathy",
       "kind": "Secondary review",
-      "status": "Photo candidates found",
+      "status": "Standard photo candidates found",
       "candidates": [
-        "P01",
-        "P05"
+        "S01",
+        "S02"
       ],
-      "recommendation": "A teenage peer scene can replace the young floor-play cartoon A102 as a discussion opener. Retain the explanation of double empathy; a smiling stock photo does not itself show that concept.",
+      "recommendation": "A teenage school group can replace the young floor-play cartoon A102 as a discussion opener. S01 shows belonging from behind; S02 shows pupils learning together. Retain the explanation of double empathy; these photos do not themselves show that concept.",
       "occurrences": [
         {
           "id": "S013",
@@ -1723,13 +1716,12 @@
       "brief": "SEC-10",
       "title": "Secondary Education · Session 4",
       "kind": "Secondary review",
-      "status": "Photo candidates found",
+      "status": "Standard photo candidates found",
       "candidates": [
-        "P05",
-        "P04",
-        "P07"
+        "S02",
+        "S01"
       ],
-      "recommendation": "P05 or P04 supplies a clearly secondary uniform cover; P07 is a task-focused alternative. Review A112 before changing it because the current student’s age is uncertain.",
+      "recommendation": "S02 supplies a teenage classroom cover; S01 is a uniformed school-group alternative. Review A112 before changing it because the current student’s age is uncertain.",
       "occurrences": [
         {
           "id": "S021",
@@ -1781,12 +1773,9 @@
       "brief": "SEC-11",
       "title": "The first two minutes",
       "kind": "Secondary review",
-      "status": "Family alternatives; exact school scene needed",
-      "candidates": [
-        "P09",
-        "P10"
-      ],
-      "recommendation": "Replace the parent-carrying-little-child image A136. P09/P10 show adults with teenage daughters in Australian outdoor family scenes. They are casual-clothing alternatives, not uniformed school consultation photos; prefer a real student/carer/teacher consultation if that is the intended meaning.",
+      "status": "Subscription-compatible Australian teen family photo still needed",
+      "candidates": [],
+      "recommendation": "Replace the parent-carrying-little-child image A136 with an Australian adult and teenage student. The previous casual family choices P09/P10 were withdrawn because they are Premium / Enhanced. No suitable Australian teen-family Standard candidate has been verified in this edition. Prefer a real student/carer/teacher consultation if that is the intended meaning.",
       "occurrences": [
         {
           "id": "S023",
@@ -1816,12 +1805,9 @@
       "brief": "SEC-12",
       "title": "Secondary Education · Session 5",
       "kind": "Secondary review",
-      "status": "Family alternatives; exact school scene needed",
-      "candidates": [
-        "P09",
-        "P10"
-      ],
-      "recommendation": "Refresh A132 with a teen family partnership image. P09/P10 may suit a home/family cover if casual clothing is accepted for that context. The default uniformed school/family meeting version remains to be sourced.",
+      "status": "Subscription-compatible Australian teen family photo still needed",
+      "candidates": [],
+      "recommendation": "Refresh A132 with a teen family-partnership image. Previous P09/P10 Premium / Enhanced options were withdrawn. The Standard-collection family search did not establish a suitable Australian teenage replacement; Australian Shepherd dog keywords do not establish Australian location. The uniformed school/family meeting version remains open.",
       "occurrences": [
         {
           "id": "S024",
@@ -1932,10 +1918,9 @@
       "kind": "Secondary review",
       "status": "Optional setting review",
       "candidates": [
-        "P01",
-        "P05"
+        "S01"
       ],
-      "recommendation": "A019’s school sector is unverified. A source-labelled Australian high-school campus photo is an alternative if a clearer secondary setting is wanted. This is a lower-priority review, not a confirmed age mismatch.",
+      "recommendation": "A019’s school sector is unverified. S01 is supplier-tagged Australia / high school, with uniformed pupils on campus, if a clearer secondary setting is wanted. This is a lower-priority review, not a confirmed age mismatch.",
       "occurrences": [
         {
           "id": "S028",
@@ -2075,12 +2060,12 @@
       "brief": "SEC-17",
       "title": "Supporting Frameworks/Guidance",
       "kind": "Secondary review",
-      "status": "Hidden slide: partial candidates if reused",
+      "status": "Hidden slide: partial Standard candidates if reused",
       "candidates": [
-        "P07",
-        "P01"
+        "S02",
+        "S01"
       ],
-      "recommendation": "Replace A125/A127 only if the hidden slide is reused. P07 represents secondary task work; P01 represents peers. Neither is a teacher-supported classroom group. Source the exact classroom scene if required.",
+      "recommendation": "Replace A125/A127 only if the hidden slide is reused. S02 represents teenage classroom learning; S01 represents school peers. Neither shows a teacher or support worker. Source the exact supported classroom scene if required.",
       "occurrences": [
         {
           "id": "S033",
@@ -2142,11 +2127,11 @@
       "brief": "SEC-19",
       "title": "Activity:",
       "kind": "Secondary review",
-      "status": "Hidden slide: partial candidate if reused",
+      "status": "Hidden slide: partial Standard candidate if reused",
       "candidates": [
-        "P07"
+        "S02"
       ],
-      "recommendation": "A129 shows young pupils in an adjustment activity. P07 is a secondary task photo but does not visibly demonstrate an adjustment. Prefer a real secondary adjustment example with approved context if the slide is restored.",
+      "recommendation": "A129 shows young pupils in an adjustment activity. S02 is a teenage classroom photo but does not visibly demonstrate an adjustment. Prefer a real secondary adjustment example with approved context if the slide is restored.",
       "occurrences": [
         {
           "id": "S035",
@@ -2240,7 +2225,7 @@
   "notes": [
     "Research shortlist only; no photo purchases, media insertions or changes to original assets.",
     "Origin is supplier metadata, not independently verified geolocation. Ages are estimates except where supplier age keywords are explicitly identified.",
-    "Earlier international / non-uniform candidates were withdrawn from the working shortlist.",
+    "Earlier international / non-uniform candidates were withdrawn. P01–P10 Premium / Enhanced options are now also withdrawn; current subscription candidates use new S01–S06 IDs. Any saved P-number review choice needs a new selection.",
     "Existing video age reviews marked pending use the posters; new-video content checks used transcripts, not full playback QA.",
     "After selecting media, refresh matching guide thumbnails, evaluation templates, MUST templates and exported PDFs."
   ],
