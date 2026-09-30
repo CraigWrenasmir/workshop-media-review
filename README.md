@@ -8,6 +8,6 @@ Open `index.html` in a browser. Adobe previews and official resource-cover previ
 
 Review fields save in each person's browser. Export a JSON review file to share decisions, or import a colleague's file. Notes do not sync automatically and are not sent to a server. For shared editing, invite the colleague to this private repository through GitHub and use issues or pull requests.
 
-The public Pages repository holds only the unlock shell and encrypted report. Its password is not in either repository. Password protection is shared review access, not server-side authentication. Rotate the password by rebuilding when the review group changes.
+A password-protected browser review build is prepared locally. Public GitHub Pages publication is pending Craig’s explicit approval; this private repository is currently the published collaboration copy. The review password is excluded from this repository. Password protection is shared review access, not server-side authentication.
 
 Source and media usage rights remain with their owners. No stock licences or production video files are included.
